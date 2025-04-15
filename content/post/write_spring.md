@@ -1,9 +1,9 @@
 ---
-title: "敲花生"
-date: 2024-02-01T23:54:58+08:00
-lastmod: 2024-02-01T23:54:58+08:00
+title: "写春联，印福字"
+date: 2024-01-28T23:54:58+08:00
+lastmod: 2024-01-28T23:54:58+08:00
 draft: false
-keywords: [花生]
+keywords: [春联]
 description: ""
 tags: [爸爸记录]
 categories: [爸爸记录]
@@ -39,4 +39,6 @@ sequenceDiagrams:
 
 ---
 
-<video src="/images/敲花生_0.mp4" controls="controls" width="800" height="600"></video>
+![](/images/写春联_0.jpg)
+
+2024年1月28日：今天和宝宝一起拓印了福字，效果不错。准备今年自己写春联了。
