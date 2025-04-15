@@ -1,7 +1,7 @@
 baseURL = "https://www.zhangtengyu.com.cn"
 languageCode = "zh-cn"
 defaultContentLanguage = "zh-cn"                             # en / zh-cn / ... (This field determines which i18n file to use)
-title = "张腾予的小屋\n一以贯之的努力，不得懈怠的人生。 ——《天才基本法》"
+title = "张腾予的小屋"
 preserveTaxonomyNames = true
 enableRobotsTXT = true
 enableEmoji = true
@@ -59,7 +59,7 @@ copyright = '<a href="https://beian.miit.gov.cn/" target="_blank">苏ICP备15009
   gitRepo = ""
 
   # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
-  logoTitle = "张腾予的博客"        # default: the title value    # 默认值: 上面设置的title值
+  logoTitle = "张腾予的小屋\n一以贯之的努力，不得懈怠的人生。 ——《天才基本法》"        # default: the title value    # 默认值: 上面设置的title值
   keywords = ["张腾予", "博客"]
   description = "张腾予的博客"
 
