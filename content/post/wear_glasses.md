@@ -51,7 +51,7 @@ sequenceDiagrams:
 ![](/images/宝宝带眼镜了_1.jpg)
 
 这个是戴眼镜的样子：
-![](/images/宝宝带眼镜了_2.mp4)
+<video src="/images/宝宝带眼镜了_2.mp4" controls="controls"></video>
 
 
 ## 2025年3月17日
