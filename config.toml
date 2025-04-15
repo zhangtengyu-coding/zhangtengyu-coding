@@ -1,5 +1,4 @@
-baseURL = "https://zhangtengyu-coding.github.io"
-# baseURL = "https://www.zhangtengyu.com.cn"
+baseURL = "https://www.zhangtengyu.com.cn"
 languageCode = "zh-cn"
 defaultContentLanguage = "zh-cn"                             # en / zh-cn / ... (This field determines which i18n file to use)
 title = "张腾予的博客"
