@@ -144,7 +144,7 @@ copyright = '<a href="https://beian.miit.gov.cn/" target="_blank">苏ICP备15009
     repo = ""               # The repo to store comments
 
   [params.gitalk]           # Gitalk is a comment system based on GitHub issues. see https://github.com/gitalk/gitalk
-    owner = "zhangsheng377"              # Your GitHub ID
+    owner = "zhangtengyu-coding"              # Your GitHub ID
     repo = "zhangtengyu-coding"               # The repo to store comments
     clientId = "Ov23lipIi5Gf8xqPxZQj"           # Your client ID
     clientSecret = "e514d399aa9233812489732acdd8f7f348e7a110"       # Your client secret
