@@ -149,7 +149,7 @@ copyright = '<a href="https://beian.miit.gov.cn/" target="_blank">苏ICP备15009
     clientId = "Ov23lipIi5Gf8xqPxZQj"           # Your client ID
     clientSecret = "e514d399aa9233812489732acdd8f7f348e7a110"       # Your client secret
     proxy = "https://vercel.prohibitorum.top/github_access_token"
-    admin = ['zhangsheng377']                    # 管理人
+    admin = 'zhangsheng377'                    # 管理人
 
   # Valine.
   # You can get your appid and appkey from https://leancloud.cn
